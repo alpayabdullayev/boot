@@ -1,0 +1,32 @@
+[
+    {
+        "oyun_adi": "Valorant",
+        "oyun_qiymeti": "Free",
+        "image": "./assets/svgs/valorantd.jfif"
+       
+    },
+
+
+    {
+        "oyun_adi": "CS-GO",
+        "oyun_qiymeti": "Free",
+        "image": "./assets/svgs/csgoooo.jfif"
+        
+
+    },
+
+
+    {
+        "oyun_adi": "FIFA 23",
+        "oyun_qiymeti": "27,99$",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0321/GTfjX9RaN2y66lA22bkthbJ8.png"
+    },
+
+    {
+        "oyun_adi": "GTA V",
+        "oyun_qiymeti": "67,99$",
+        "image": "./assets/svgs/gtaaa.jfif"
+    }
+
+
+]

@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap');
+
+body{
+    background-color: #121139;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+
+.header {
+    background-color: #121139;
+   
+    
+}
+.home {
+    padding: 318px 136px 0 90px;
+}
+.font-light {
+    color: #fff;
+}
+.brand {
+    font-size: 65px;
+}
+.gradient-left {
+    position: relative;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background: linear-gradient(177.23deg, rgba(66, 62, 224, 0.4) -13.49%, rgba(129, 45, 226, 0.4) 109.75%);
+    border-radius: 900px;
+}
+.gradient-color {
+    background: linear-gradient(263.24deg, #9130F4 21.05%, #4646F9 77.63%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.carousel-item {
+    height: 700px;
+    width: 900px;
+  
+}
+
+
+.h1-1{
+    text-align: center;
+    color: #9130F4;
+}
+
+NAV>h1{
+    color: #fff;
+    font-size: 24px;
+    margin-top: 30px;
+}
+
+.navbar-nav a{
+    display: block;
+    color: #121139;
+    font-size: 20px;
+    padding: 10px 25px;
+    border-radius: 50px;
+    transition: 0.2s;
+    margin: 0 5px;
+    text-align: center;
+}
+
+
+.navbar-nav a:hover{
+    background-color: #9130F4;
+}
+
+.carousel-item{
+    margin-left: 310px;
+    margin-top: 50px;
+}
+
+
+
+
+.ff{
+    background-color: #121139;
+}
+
+
+.card{
+    position:absolute ;
+    padding: 30px;
+    background-color: #121139;
+}
+
+.first-section{
+    background-color: #121139;
+  
+}
+
+.image{
+   color: bisque;
+}
